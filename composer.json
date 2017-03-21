@@ -1,0 +1,8 @@
+{
+  "require": {
+    "react/react": "0.4.2",
+    "guzzlehttp/guzzle": "6.2.3",
+    "swiftmailer/swiftmailer": "5.4.6",
+    "twilio/sdk":"5.7.0"
+  }
+}
